@@ -1,4 +1,4 @@
-#<ins>Prerequisites<ins>
+# <ins>Prerequisites</ins>
 
 * Python =>3
 * Django =>3
